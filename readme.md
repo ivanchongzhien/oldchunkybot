@@ -38,4 +38,3 @@ OldChunky Bot is a multipurpose bot designed as a personal project for my person
 
 ### How this bot is kept running:
 Since the bot is hosted on a free online service, it normally terminates after one hour of inactivity. To bypass this issue, I used Uptime Robot, another service to ping the bot server at regular intervals to prevent it from terminating.
-
